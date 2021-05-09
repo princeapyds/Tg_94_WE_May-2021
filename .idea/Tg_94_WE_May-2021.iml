@@ -2,7 +2,11 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
+<<<<<<< 7d9fa18e0589515ed6ba67c37a4f61bb8b6fa371
     <orderEntry type="inheritedJdk" />
+=======
+    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+>>>>>>> First Commit
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
